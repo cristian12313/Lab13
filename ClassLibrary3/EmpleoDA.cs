@@ -91,6 +91,7 @@ namespace ClassLibrary3
                              }).SingleOrDefault();
 
             return objEmpleoBE;
+
         }
     }
 }
